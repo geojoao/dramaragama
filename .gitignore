@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+node_modules/
+
+# Foto com marca de medicamento: não usada no site, mantida só localmente
+assets/images/harmonizacao-trust.*
