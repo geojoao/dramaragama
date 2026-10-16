@@ -24,7 +24,7 @@ const SITE = {
   url: 'https://dramaragama.com.br',
   // Gera o arquivo CNAME (domínio próprio no GitHub Pages). Deixe false até trocar o DNS no Registro.br,
   // senão o endereço *.github.io redireciona para o domínio, que ainda mostra o site antigo.
-  cname: false,
+  cname: true,
   // Número do CRO-RJ. Enquanto vazio, não aparece no site.
   cro: '',
   name: 'Mara Gama Odontologia & Estética',
